@@ -44,6 +44,4 @@ Feel free to contribute. Currently help simplifying the input utilities or addin
 Almost all PR's with net positive contributions will be accepted, exceptions to of course PR's containing obfuscated code etc.
 
 # License
-MIT License - feel free to use in any project commercial or otherwise
-
-You may find it useful to simply pick and choose functions from this library if you're working on a longer term project
+MIT License
